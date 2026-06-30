@@ -1,2 +1,2 @@
 # Happy-vacation
-let students have a happy vacatioin
+let students have a happy vacation
